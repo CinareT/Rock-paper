@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+h2{
+    color: rgb(47, 47, 98);
+}
+#das{
+    width: 300px;
+    height: 300px;
+    background-image: url(https://th.bing.com/th/id/OIP.LA8Lj3grDegA88degGPZkQHaE6?pid=ImgDet&rs=1);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    transition: all 1s;
+}
+#kagiz{
+    width: 300px;
+    height: 300px;
+    background-image: url(https://th.bing.com/th/id/OIP.4Ie56yXFh67zHygYk7AkDQHaE8?pid=ImgDet&rs=1);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    transition: all 1s;
+}
+#qayci{
+    width: 300px;
+    height: 300px;
+    background-image: url(https://th.bing.com/th/id/OIP.3sMzuMgvR6-lqXxuOIGfIwHaFj?pid=ImgDet&w=500&h=375&rs=1);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    transition: all 1s;
+}
+.box{
+    background-color: rgb(180, 239, 243);
+    height: 100vh;
+}
